@@ -4,7 +4,7 @@ description = "Call for Full and Short Papers"
 +++
 
 ## Introduction
-The **2nd International Workshop on Artificial Intelligence with and for Learning Sciences: Past, Present, and Future Horizons** 
+The **2nd Workshop on Artificial Intelligence with and for Learning Sciences: Past, Present, and Future Horizons** 
 (WAILS 2025) is a high-quality forum focused on achievements, challenges, solutions, and future perspectives concerned 
 with the adoption of **artificial intelligence** methods and techniques in the context of **learning sciences**. Building on its 
 successful inaugural edition, WAILS 2025 brings together researchers and practitioners working within academia, industry, and 
