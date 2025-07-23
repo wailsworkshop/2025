@@ -1,3 +1,3 @@
 +++
-author = "IIR Committee"
+author = "WAILS Committee"
 +++

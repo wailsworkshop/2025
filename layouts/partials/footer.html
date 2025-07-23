@@ -10,23 +10,25 @@
   {{ end }}
   
   <!-- Primary footer section with social links -->
-  <div class="flex flex-row items-center justify-between bg-gray-800 py-2 text-white text-center w-full first-layer-footer">
-    <div class="text-lg font-medium ml-4">
-      {{ .Site.Params.site.name }}
-    </div>
-    
+  <div class="flex flex-row items-center justify-between py-2 text-white text-center w-full first-layer-footer">
     <div class="social-icons mr-4">
-      <a href="https://www.linkedin.com/in/iir-workshop/" title="LinkedIn">
+      <a href="https://bsky.app/profile/wailsworkshop.bsky.social" title="Bluesky">
+        <i class="fas fa-globe" aria-hidden="true"></i>
+      </a>
+      <a href="https://www.linkedin.com/company/wailsworkshop" title="LinkedIn">
         <i class="fab fa-linkedin" aria-hidden="true"></i>
       </a>
-      <a href="https://x.com/iir_ws" title="X / Twitter">
+      <a href="https://x.com/wailsworkshop" title="X">
         <i class="fab fa-x-twitter" aria-hidden="true"></i>
       </a>
     </div>
   </div>
   
   <!-- Copyright section -->
-  <div class="py-1 bg-gray-800 text-white text-sm text-center w-full">
-    &copy; {{site.Title}} {{ now.Year }} All Rights Reserved.
+  <div class="py-1 text-white text-sm text-center w-full">
+    &copy; {{ site.Title }} {{ now.Year }} |
+    Contact: <a href="mailto:wailsworkshop@outlook.com" class="underline hover:text-gray-300">wailsworkshop [at] outlook.com</a> |
+    Design: Hugo
   </div>
+
 </footer>

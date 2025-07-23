@@ -1,18 +1,38 @@
 +++
 title = "Important Dates"
-description = "Key dates for IIR 2025"
+description = "Important dates for WAILS 2025"
 +++
 
-# Important Dates
+Time zone: [Anywhere on Earth (AoE)](https://time.is/Anywhere_on_Earth)
 
-Below are the important dates for IIR 2025. Please note that all deadlines are at 11:59pm [AoE (Anywhere on Earth)](https://time.is/Anywhere_on_Earth) time.
+## Call for Full and Short Papers
 
-| Event | Date |
-|-------|------|
-| Submission deadline | {{< strikethrough-extension >}}June 26, 2025{{< /strikethrough-extension >}} **July 4, 2025** |
-| Notification of acceptance | July 24, 2025 |
-| Camera-ready deadline | July 31, 2025 |
-| Registration | July 31, 2025 |
-| Workshop | September 3 - 5, 2025 |
+| Event                       | Deadline           |
+|-----------------------------|--------------------|
+| **Paper submission**        | September 18, 2025 |
+| **Notification**            | October 23, 2025   |
+| **Camera-ready submission** | November 6, 2025   |
+
+## Call for Doctoral Symposium Papers
+
+| Event                       | Deadline           |
+|-----------------------------|--------------------|
+| **Paper submission**    | September 25, 2025 |
+| **Notification**           | October 23, 2025   |
+| **Camera-ready submission** | November 6, 2025   |
+
+## Registration
+
+| Event                   | Deadline          |
+|-------------------------|-------------------|
+| **Early registration**  | TBA               |
+| **Late registration**   | TBA  |
+| **Onsite registration** | TBA |
+
+## Participation
+| Event             | Date                    |
+|-------------------|-------------------------|
+| **Workshop**      | December 10-12, 2025    |
+| **Social Dinner** | TBA |
 
 <!-- *Note: These dates are tentative and subject to change. Please check back regularly for updates.* -->

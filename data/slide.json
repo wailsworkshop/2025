@@ -1,30 +1,26 @@
 [
   {
-    "image": "/img/slider/33248847325_21f9d6a217_o-transformed-scaled_2.jpeg",
+    "image": "/img/slider/sea.jpg",
     "color": "text-white"
   },
   {
-    "image": "/img/slider/bastione_dall_alto.jpg",
+    "image": "/img/slider/bastion.jpg",
     "color": "text-white"
   },
   {
-    "image": "/img/slider/carlo_felice.jpg",
+    "image": "/img/slider/houses.jpg",
     "color": "text-white"
   },
   {
-    "image": "/img/slider/giardini_pubblici.jpg",
+    "image": "/img/slider/landscape.jpg",
     "color": "text-white"
   },
   {
-    "image": "/img/slider/poetto.jpg",
+    "image": "/img/slider/night.jpg",
     "color": "text-white"
   },
   {
-    "image": "/img/slider/anfiteatro_posteriore.jpg",
-    "color": "text-white"
-  },
-  {
-    "image": "/img/slider/sella_del_diavolo.jpg",
+    "image": "/img/slider/sella.jpg",
     "color": "text-white"
   }
 ]

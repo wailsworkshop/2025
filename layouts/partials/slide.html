@@ -1,8 +1,8 @@
 <div class="swiper-container">
     <!-- Fixed title bar at the top of the slider -->
     <div class="slider-title">
-        <h1>15th Italian Information Retrieval Workshop (IIR 2025)</h1>
-        <p>3 - 5 September 2025, Cagliari, Italy</p>
+        <h1>The 2nd Workshop on Artificial Intelligence with and for Learning Sciences (WAILS 2025)</h1>
+        <p>December 10-12, 2025 - Cagliari, Italy</p>
     </div>
     
     <div class="swiper-wrapper">
@@ -16,10 +16,10 @@
             {{ if fileExists (printf "assets/img/%s" $imagePath) }}
                 {{ $image := resources.Get (printf "img/%s" $imagePath) }}
                 {{ $imageResized := $image.Resize "1600x" }}
-                <img src="{{ $imageResized.RelPermalink }}" alt="{{ or .alt "IIR 2025 Conference" }}">
+                <img src="{{ $imageResized.RelPermalink }}" alt="{{ or .alt "WAILS 2025 Workshop" }}">
             {{ else }}
                 <!-- Fallback to static directory if not found in assets -->
-                <img src="{{ .image | absURL }}" alt="{{ or .alt "IIR 2025 Conference" }}">
+                <img src="{{ .image | absURL }}" alt="{{ or .alt "WAILS 2025 Workshop" }}">
             {{ end }}
         </div>
         {{ end }}

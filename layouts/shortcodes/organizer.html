@@ -9,5 +9,6 @@
   {{- end -}}
   <img src="{{ $imagePath }}" alt="{{ .Get "name" }}" class="organizer-image">
   <h3>{{ .Get "name" }}</h3>
-  <p>{{ .Get "affiliation" }}, {{ .Get "country" }}</p>
+  <p class="affiliation">{{ .Get "affiliation" }}, {{ .Get "country" }}</p>
+  <p>{{ .Get "email" }}</p>
 </div>
