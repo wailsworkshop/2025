@@ -125,5 +125,5 @@ proceedings are made available online by Springer.
 - **Mirko Marras**, University of Cagliari, Italy (mirko.marras [at] unica.it)
 
 ## Acknowledgements
-The **Microsoft CMT** service was used for managing the peer-reviewing process for this conference. This service was provided **for free** by
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by
 Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
