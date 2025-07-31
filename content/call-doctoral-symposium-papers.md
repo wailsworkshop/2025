@@ -90,7 +90,7 @@ Submissions reporting on such human subjects research must include a statement i
 
 ## Camera-Ready Submission 
 
-The accepted proposals (i.e., **the research description component**) will be submitted to the Springer’s Lecture Notes in Computer Science (LCNS) 
+The accepted proposals (i.e., **the research description component**) will be published as part of te proceedings within the corresponding Springer’s Lecture Notes in Computer Science (LCNS) volume
 and must be compliant with the guidelines provided by the LCNS. The accepted proposals will require a further revision in order to **meet the 
 requirements and the page limits of the camera-ready format** required by Springer. Instructions for the preparation of the camera-ready versions 
 of the papers will be provided after acceptance. We strongly recommend the usage of LaTeX/Overleaf for the camera-ready papers to minimize 
