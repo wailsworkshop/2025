@@ -35,11 +35,13 @@ psychology, sociology, ethics, economics, and human-computer interaction. Topics
     - Software engineering for reliable, inclusive, and ethical educational AI
     - Accessibility, interoperability, and robustness in AI-powered learning tools
     - Functional and non-functional requirements in educational technology design
+    - Approaches to designing educational modules or programs that promote AI literacy
 - **Empirical studies and evaluation**
     - Longitudinal, qualitative, and mixed-method research on AI in education
     - In-situ evaluation of AI systems across formal, informal, or hybrid learning
     - User studies involving students, teachers, parents, and administrators
     - Measurement of learning outcomes, engagement, and behavioral impact
+    - Studies assessing the effectiveness, transferability, and impact of AI literacy programs
 - **Socio-technical and ethical perspectives**
     - Digital divide concerning AI between instructors and students 
     - Explainability, transparency, and trust in educational AI
