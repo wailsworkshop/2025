@@ -22,7 +22,7 @@ area or dissertation topic**. This forum will provide students with an opportuni
 - Explore career pathways available after completing the doctorate. 
 - Network and build collaborations within the community.
 
-Students are asked to submit a **brief proposal outlining their doctoral research**, which will be evaluated by the doctoral symposium committee. 
+Students are asked to submit a **brief paper outlining their doctoral research**, which will be evaluated by the doctoral symposium committee. 
 Each student with an accepted submission will be assigned a mentor who will provide feedback on the student’s work. A **mentoring session** will take 
 place during the conference, and each student is expected to attend.
 
