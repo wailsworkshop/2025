@@ -37,8 +37,7 @@ Note: all the deadlines are at 11:59 pm [Anywhere on Earth (AoE)](https://time.i
 
 ### Platform
 
-Papers must be written in **English** and submitted electronically in a **PDF format**, through the **CMT submission system**, by selecting 
-the **type** “Doctoral Symposium Paper”. The **link** to the submission system will be available soon. 
+Papers must be written in **English** and submitted electronically in **PDF format** via the **CMT submission system**. To submit, please visit the submission platform at [https://cmt3.research.microsoft.com/WAILS2025/](https://cmt3.research.microsoft.com/WAILS2025/) and select the **"WAILS 2025 Doctoral Symposium Papers"** track.
 
 ### Format
 
