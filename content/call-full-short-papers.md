@@ -61,7 +61,7 @@ psychology, sociology, ethics, economics, and human-computer interaction. Topics
 
 ### Platform
 
-Papers must be written in **English** and submitted electronically in **pdf format** via the **CMT submission system**. To submit your contribution, please visit the submission website at [https://cmt3.research.microsoft.com/WAILS2025/](https://cmt3.research.microsoft.com/WAILS2025/) and select the **"WAILS 2025 Full and Short Papers"** track.
+Papers must be written in **English** and submitted electronically in **PDF format** via the **CMT submission system**. To submit, please visit the submission platform at [https://cmt3.research.microsoft.com/WAILS2025/](https://cmt3.research.microsoft.com/WAILS2025/) and select the **"WAILS 2025 Full and Short Papers"** track.
 
 ### Format
 
