@@ -22,7 +22,7 @@ area or dissertation topic**. This forum will provide students with an opportuni
 - Explore career pathways available after completing the doctorate. 
 - Network and build collaborations within the community.
 
-Students are asked to submit a **brief proposal outlining their doctoral research**, which will be evaluated by the doctoral symposium committee. 
+Students are asked to submit a **brief paper outlining their doctoral research**, which will be evaluated by the doctoral symposium committee. 
 Each student with an accepted submission will be assigned a mentor who will provide feedback on the student’s work. A **mentoring session** will take 
 place during the conference, and each student is expected to attend.
 
@@ -37,8 +37,7 @@ Note: all the deadlines are at 11:59 pm [Anywhere on Earth (AoE)](https://time.i
 
 ### Platform
 
-Papers must be written in **English** and submitted electronically in a **PDF format**, through the **CMT submission system**, by selecting 
-the **type** “Doctoral Symposium Paper”. The **link** to the submission system will be available soon. 
+Papers must be written in **English** and submitted electronically in **PDF format** via the **CMT submission system**. To submit, please visit the submission platform at [https://cmt3.research.microsoft.com/WAILS2025/](https://cmt3.research.microsoft.com/WAILS2025/) and select the **"WAILS 2025 Doctoral Symposium Papers"** track.
 
 ### Format
 
