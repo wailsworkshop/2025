@@ -8,6 +8,7 @@ The **2nd Workshop on Artificial Intelligence with and for Learning Sciences: Pa
 
 # Latest News
 
+- **Sep 18, 2025**: The submission deadlines for both tracks have been extended by two weeks
 - **Jul 31, 2025**: The [call for doctoral symposìum papers](/2025/call-doctoral-symposium-papers/) has been released
 - **Jul 23, 2025**: The [call for full and short papers](/2025/call-full-short-papers/) is open
 - **Jul 22, 2025**: Check out the pages for [travel](/2025/travel-information/), [venue](/2025/venue-information/), [touristic](/2025/touristic-information/), [accommodation](/2025/accommodation-information/), and [visa](/2025/visa-information/) information

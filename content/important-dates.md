@@ -9,17 +9,17 @@ Time zone: [Anywhere on Earth (AoE)](https://time.is/Anywhere_on_Earth)
 
 | Event                       | Deadline           |
 |-----------------------------|--------------------|
-| **Paper submission**        | September 18, 2025 |
+| **Paper submission**        |  ~~September 18, 2025~~ **<span style="color:red">October 3, 2025</span>** |
 | **Notification**            | October 23, 2025   |
 | **Camera-ready submission** | November 6, 2025   |
 
 ## Call for Doctoral Symposium Papers
 
-| Event                       | Deadline           |
-|-----------------------------|--------------------|
-| **Paper submission**    | September 25, 2025 |
-| **Notification**           | October 23, 2025   |
-| **Camera-ready submission** | November 6, 2025   |
+| Event                       | Deadline                                                                   |
+|-----------------------------|----------------------------------------------------------------------------|
+| **Paper submission**    | ~~September 25, 2025~~ **<span style="color:red">October 10, 2025</span>** |
+| **Notification**           | October 23, 2025                                                           |
+| **Camera-ready submission** | November 6, 2025                                                           |
 
 ## Registration
 

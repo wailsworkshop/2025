@@ -12,7 +12,7 @@ government, and coming from different fields such as computer science, education
 and human-computer interaction, with the goal of fostering a fruitful **dialogue across disciplines**. The accepted papers are going to be published by **Springer** into an **LNCS post-workshop proceedings volume**, and submitted for indexing to **DBLP**, **Google Scholar**, and **Scopus**. 
 
 ## Deadlines
-- **Paper submission**: September 18, 2025
+- **Paper submission**:  ~~September 18, 2025~~ **<span style="color:red">October 3, 2025</span>**
 - **Notification**: October 23, 2025
 - **Camera-ready submission**: November 6, 2025
 

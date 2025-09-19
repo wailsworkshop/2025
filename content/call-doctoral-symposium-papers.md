@@ -27,7 +27,7 @@ Each student with an accepted submission will be assigned a mentor who will prov
 place during the conference, and each student is expected to attend.
 
 ## Deadlines
-- **Paper submission**: September 25, 2025
+- **Paper submission**:  ~~September 25, 2025~~ **<span style="color:red">October 10, 2025</span>**
 - **Notification**: October 23, 2025
 - **Camera-ready submission**: November 6, 2025
 
