@@ -34,4 +34,4 @@ Time zone: [Anywhere on Earth (AoE)](https://time.is/Anywhere_on_Earth)
 | **Workshop**      | December 10-12, 2025 |
 | **Social Dinner** | December 10, 2025    |
 
-<!-- *Note: These dates are tentative and subject to change. Please check back regularly for updates.* -->
+*Note: These dates are tentative and subject to change. Please check back regularly for updates.*

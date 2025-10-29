@@ -48,7 +48,7 @@ Please complete the registration form at [https://sondaggi-unica.limesurvey.net/
 ## Registration Payment
 Once you complete the registration form, you will be contacted by email within a few working days by the local secretariat with instructions to complete the 
 payment (please note that the university offices will be closed on October 30 and 31). For the purpose of determining the registration fee, the date on which 
-the registration form is completed will be considered. Registration will be confirmed only upon receipt and verification of the payment by the local secretariat.
+the registration form is completed will be considered. Registration will be confirmed only upon receipt of the payment by the local secretariat.
  
 ## Contacts
 If you have any questions about the registration, please do not hesitate to reach out to us at [wailsworkshop [at] outlook.com](mailto:wailsworkshop@outlook.com).

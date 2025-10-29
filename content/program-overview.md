@@ -37,4 +37,4 @@ description = "Program Overview"
 | **11:00 – 12:15** | Paper Session 4 |
 | **12:15 – 12:30** | Closing |
 
-<!-- *Note: These slots are tentative and subject to change. Please check back regularly for updates.* -->
+*Note: These slots are tentative and subject to change. Please check back regularly for updates.*
