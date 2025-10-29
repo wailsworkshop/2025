@@ -23,16 +23,15 @@ Time zone: [Anywhere on Earth (AoE)](https://time.is/Anywhere_on_Earth)
 
 ## Registration
 
-| Event                   | Deadline          |
-|-------------------------|-------------------|
-| **Early registration**  | TBA               |
-| **Late registration**   | TBA  |
-| **Onsite registration** | TBA |
+| Event                  | Deadline          |
+|------------------------|-------------------|
+| **Early registration** | November 10, 2025 |
+| **Late registration**  | December 3, 2025  |
 
 ## Participation
-| Event             | Date                    |
-|-------------------|-------------------------|
-| **Workshop**      | December 10-12, 2025    |
-| **Social Dinner** | TBA |
+| Event             | Date                 |
+|-------------------|----------------------|
+| **Workshop**      | December 10-12, 2025 |
+| **Social Dinner** | December 10, 2025    |
 
 <!-- *Note: These dates are tentative and subject to change. Please check back regularly for updates.* -->

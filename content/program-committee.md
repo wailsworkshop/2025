@@ -16,7 +16,6 @@ description = "Program Committee"
 | Jade Mai Cock            | EPFL                                          | Switzerland   |
 | Lea Cohausz              | University of Mannheim                        | Germany       |
 | Rossana Damiano          | University of Turin                           | Italy         |
-| Satya Ranjan Dash        | KIIT University                               | India         |
 | Daniele Di Mitri         | DIPF                                          | Germany       |
 | Pio Alfredo Di Tore      | University of Cassino                         | Italy         |
 | Yannis Dimitriadis       | Universidad de Valladolid                     | Spain         |
@@ -24,7 +23,6 @@ description = "Program Committee"
 | Alessio Ferrato          | Roma Tre University                           | Italy         |
 | Filomena Ferrucci        | University of Salerno                         | Italy         |
 | David Freire-Obregón     | Universidad de Las Palmas de Gran Canaria     | Spain         |
-| Sabine Graf              | Athabasca University                          | Canada        |
 | Carmine Gravino          | University of Salerno                         | Italy         |
 | Martin Hlosta            | FFHS                                          | Switzerland   |
 | Srecko Joksimovic        | University of South Australia                 | Australia     |
@@ -42,7 +40,6 @@ description = "Program Committee"
 | Manuel Striani           | University of Piemonte Orientale              | Italy         |
 | Davide Taibi             | CNR-ITD                                       | Italy         |
 | Marco Temperini          | Sapienza University of Rome                   | Italy         |
-| Sumegh Tharewal          | MIT World Peace University                   | India         |
 | Michele Todino           | University of Salerno                         | Italy         |
 | Ilaria Torre             | University of Genoa                           | Italy         |
 | Ilaria Viola             | University of Salerno                         | Italy         |

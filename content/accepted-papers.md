@@ -3,4 +3,37 @@ title = "Accepted Papers"
 description = "Accepted Papers"
 +++
 
-Details will be published soon. Please stay tuned!
+## Full and Short Papers Track
+
+| Title | Author(s)                                                                                                                               |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| Adaptive Mental Health Interventions: Integrating VR and Generative AI in Learning Environments | Della Greca, Attilio; Amaro, Ilaria; Barra, Paola                                                                                       |
+| AI and Universal Design for Learning: Designing Educational, Inclusive, and Adaptive Digital Environments | Angeloni, Giulia                                                                                                                        |
+| Artificial Intelligence and Virtual Labs: A Controlled Study of a Teaching Experience in an ITS Academy Course | Sorbara, Agostino                                                                                                                       |
+| Better Now: Bridging Theory and Practice in Blockchain-Enabled Educational Metaverse | Di Dario, Dario; Pastore, Pier Paolo; Palomba, Fabio; Gravino, Carmine                                                                  |
+| Biopedagogy, Artificial Intelligence, and Enactivism: Findings From a Mixed-Methods Study on 540 Education Professionals | Pellegrini, Sara; Cuccaro, Antonio; Gentilozzi, Chiara; Sebastiani, Riccardo                                                            |
+| Combining Qualitative and Quantitative Insights Within a Python Programming Blended Course | Rotelli, Daniela; Noel, Yves; Costa Cornejo, Paola                                                                                      |
+| Confidential Retrieval-Augmented Generation in Educational Contexts | Boratto, Ludovico; Congiu, Francesco; Fenu, Gianni; Medda, Giacomo; Pau, Antonello                                                      |
+| Democratizing Access to Educational Data Through Large Language Models | Boratto, Ludovico; Fenu, Gianni; Floris, Theo; Malloci, Francesca Maridina; Martis, Andrea Giovanni; Sau, Marco                         |
+| Experimenting With Generative AI in Screenwriting for Film Schools | Lo Duca, Angelica; Rotelli, Daniela                                                                                                     |
+| Exploring the Role of Professional Development in Fostering AI Competence Among Teachers in Southern Switzerland | Negrini, Lucio; Lamacchia, Marika; Carruba, Maria Concetta; Delucchi, Emanuele; Babazadeh, Masiar; Mangili, Francesca; Termine, Alberto |
+| From Bias Awareness to Critical Reflection: Expanding Teacher Education Through Predictive AI | Giacometti, Giulia                                                                                                                      |
+| From Functions to Indicators: A Framework to Assess the Impact of AI on Self-Regulated Learning | Facciorusso, Francesco; Lamacchia, Marika; Carruba, Maria Concetta                                                                      |
+| Hope, Aspirations, and the Impact of LLMs on Female Programming Learners in Afghanistan | Behmanush, Hamayoon; Akhtari, Freshta; Nooripour, Roghieh; Weber, Ingmar; Kamath Cannanure, Vikram                                      |
+| Inclusion as Embodiment: Towards an Integrated Paradigm Between Embodied Education, Inclusive Pedagogy, and Artificial Intelligence | Sebastiani, Riccardo; Cuccaro, Antonio; Gentilozzi, Chiara; Pellegrini, Sara                                                            |
+| Low-Resource Course Recommendation for Professional Associations | Boratto, Ludovico; Fenu, Gianni; Marongiu, Nicolò; Medda, Giacomo; Soccol, Alessandro                                                                     |
+| Operationalizing Calibration for Fair Educational Artificial Intelligence | Mancini, Massimiliano; Merlini, Donatella; Verri, Maria Cecilia                                                                         |
+| Orchestrating Artificial Intelligence as Tool, Mediator, and Environment: Towards Inclusive Learning Ecosystems | Pagliara, Silvio; Bonavolontà, Gianmarco                                                                                                |
+| Using AI to Train Prospective Primary School Teachers to Teach AI | Carrisi, Maria Cristina; Vergallo, Sara; Rizzo, Ottavio                                                                                 |
+| Virtual Pedagogical Agents in Educational VR for Neurodivergent Learners: A Literature Review | Pentangelo, Viviana; Serafin, Stefania; Palomba, Fabio                                                                                  |
+
+## Doctoral Symposium Papers Track
+| Title | Author(s) |
+|-------|-----------|
+| AI & Ethics Literacy in Secondary School: A Pilot Study | Pisano, Aldo |
+| AI Chatbots in Mathematics Classrooms: Understanding Student-AI Interactions and Teacher Integration | Nieddu, Giorgia; Carrisi, Maria Cristina; Zurru, Antioco Luigi |
+| Enhancing Digital Literacy through Retrieval-Augmented Generation | Cabras, Marco; Boratto, Ludovico; Carta, Salvatore Mario; Marras, Mirko |
+| Innovative learning environments and metacognitive awareness | Repetti, Paola |
+| Teaching AI literacy: how to enable students to adapt to the constant evolution of this field? | Miele, Camille |
+
+

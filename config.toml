@@ -8,6 +8,8 @@ enableRobotsTXT = true
 
 # Disqus Comment System
 #disqusShortname = ""
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
   # Parameter specifically for GitHub Pages deployment

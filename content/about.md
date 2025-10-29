@@ -8,6 +8,10 @@ The **2nd Workshop on Artificial Intelligence with and for Learning Sciences: Pa
 
 # Latest News
 
+- **Oct 29, 2025**: The [registration](/2025/registration/) to the workshop is now open
+- **Oct 29, 2025**: The list of [accepted papers](/2025/accepted-papers/) is online
+- **Oct 29, 2025**: The names of the [keynote speakers](/2025/keynote-speakers/) are available
+- **Oct 29, 2025**: The [overview of the program](/2025/program-overview/) has been published
 - **Sep 18, 2025**: The submission deadlines for both tracks have been extended by two weeks
 - **Jul 31, 2025**: The [call for doctoral symposìum papers](/2025/call-doctoral-symposium-papers/) has been released
 - **Jul 23, 2025**: The [call for full and short papers](/2025/call-full-short-papers/) is open
