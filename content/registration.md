@@ -32,9 +32,6 @@ The online registration covers:
 - The attendance at the workshop sessions for three days, including keynote talks, via Microsoft Teams
 - The access to the workshop post-proceedings via Springer Link
  
-### Additional Guest Tickets
-- Social dinner (Wednesday December 10, 2025): 55 €
- 
 ## Cancellation Policy
 No refunds are allowed. 
 

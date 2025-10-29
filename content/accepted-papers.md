@@ -7,7 +7,8 @@ description = "Accepted Papers"
 
 | Title | Author(s)                                                                                                                               |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| Adaptive Mental Health Interventions: Integrating VR and Generative AI in Learning Environments | Della Greca, Attilio; Amaro, Ilaria; Barra, Paola                                                                                       |
+| Adaptive Mental Health Interventions: Integrating VR and Generative AI in Learning Environments | Della Greca, Attilio; Amaro, Ilaria; Barra, Paola   
+| AI & Ethics Literacy in Secondary School: A Pilot Study | Pisano, Aldo; Crispini, Ines; Rossi, Rossana Adele                     |                                                                                    |
 | AI and Universal Design for Learning: Designing Educational, Inclusive, and Adaptive Digital Environments | Angeloni, Giulia                                                                                                                        |
 | Artificial Intelligence and Virtual Labs: A Controlled Study of a Teaching Experience in an ITS Academy Course | Sorbara, Agostino                                                                                                                       |
 | Better Now: Bridging Theory and Practice in Blockchain-Enabled Educational Metaverse | Di Dario, Dario; Pastore, Pier Paolo; Palomba, Fabio; Gravino, Carmine                                                                  |
@@ -28,12 +29,11 @@ description = "Accepted Papers"
 | Virtual Pedagogical Agents in Educational VR for Neurodivergent Learners: A Literature Review | Pentangelo, Viviana; Serafin, Stefania; Palomba, Fabio                                                                                  |
 
 ## Doctoral Symposium Papers Track
-| Title | Author(s) |
-|-------|-----------|
-| AI & Ethics Literacy in Secondary School: A Pilot Study | Pisano, Aldo |
-| AI Chatbots in Mathematics Classrooms: Understanding Student-AI Interactions and Teacher Integration | Nieddu, Giorgia; Carrisi, Maria Cristina; Zurru, Antioco Luigi |
+| Title | Author(s)                                                              |
+|-------|------------------------------------------------------------------------|
+| AI Chatbots in Mathematics Classrooms: Understanding Student-AI Interactions and Teacher Integration | Nieddu, Giorgia; Carrisi, Maria Cristina; Zurru, Antioco Luigi         |
 | Enhancing Digital Literacy through Retrieval-Augmented Generation | Cabras, Marco; Boratto, Ludovico; Carta, Salvatore Mario; Marras, Mirko |
-| Innovative learning environments and metacognitive awareness | Repetti, Paola |
-| Teaching AI literacy: how to enable students to adapt to the constant evolution of this field? | Miele, Camille |
+| Innovative learning environments and metacognitive awareness | Repetti, Paola                                                         |
+| Teaching AI literacy: how to enable students to adapt to the constant evolution of this field? | Miele, Camille                                                         |
 
 
