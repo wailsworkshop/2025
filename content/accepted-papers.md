@@ -33,7 +33,6 @@ description = "Accepted Papers"
 |-------|------------------------------------------------------------------------|
 | AI Chatbots in Mathematics Classrooms: Understanding Student-AI Interactions and Teacher Integration | Nieddu, Giorgia; Carrisi, Maria Cristina; Zurru, Antioco Luigi         |
 | Enhancing Digital Literacy through Retrieval-Augmented Generation | Cabras, Marco; Boratto, Ludovico; Carta, Salvatore Mario; Marras, Mirko |
-| Innovative learning environments and metacognitive awareness | Repetti, Paola                                                         |
 | Teaching AI literacy: how to enable students to adapt to the constant evolution of this field? | Miele, Camille                                                         |
 
 
