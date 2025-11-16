@@ -3,18 +3,18 @@ title = "Keynote Speakers"
 description = "Keynote Speakers"
 +++
 
-<img src="/2025/img/speakers/adorni.jpeg" alt="Adorni" style="width:200px; border-radius:15px;">
+<img src="/2025/img/speakers/adorni.jpg" alt="Adorni" style="width:200px; border-radius:15px;">
  
 ## Giovanni Adorni, University of Genoa, Italy
  
 **Title:**  
-TBA
+Cyber Humanism in Education: Reclaiming Agency through AI and Learning Sciences
 
 **Abstract:**  
-TBA
+In the age of generative AI, education must evolve from passive technology adoption to active co-authorship of learning infrastructures. Cyber Humanism offers a framework to reclaim human agency, positioning educators and learners as epistemic agents who shape – rather than merely use – intelligent systems. This keynote explores how reflexive competence, algorithmic citizenship, and dialogic design can transform AI from a disruptive force into a catalyst for democratic, human-centered education.
 
 **Bio:**  
-TBA
+Giovanni Adorni is a former professor of Computer Science at the University of Genoa. During his forty-five-year career, he has been a pioneer in Artificial Intelligence, making contributions to areas such as computer vision, autonomous vehicles, robotics and natural language processing. His research has evolved to encompass the combination of symbolic and sub-symbolic approaches, as well as the application of AI to Digital Humanities. A long-standing expert in technology-enhanced learning, he has coordinated numerous national and European projects and promoted Master's and PhD programmes in Digital Humanities. He has received numerous international awards and honours, including the recent IEEE Systems, Man, and Cybernetics Education and Training Award for his work on Cyber Humanities. He is a Fellow of EURAI and of the Asia-Pacific Artificial Intelligence Association and a former president of the Italian Association for Computer Science (AICA). His current work focuses on integrating generative AI and conversational agents into educational practices and humanities research.
 
 <img src="/2025/img/speakers/klebanov.jpg" alt="Klebanov" style="width:200px; border-radius:15px;">
 

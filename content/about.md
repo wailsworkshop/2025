@@ -8,6 +8,7 @@ The **2nd Workshop on Artificial Intelligence with and for Learning Sciences: Pa
 
 # Latest News
 
+- **Nov 16, 2025**: The [detailed program](/2025/detailed-program/) has been published
 - **Oct 29, 2025**: The [registration](/2025/registration/) to the workshop is now open
 - **Oct 29, 2025**: The list of [accepted papers](/2025/accepted-papers/) is online
 - **Oct 29, 2025**: The names of the [keynote speakers](/2025/keynote-speakers/) are available
