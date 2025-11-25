@@ -54,4 +54,4 @@ description = "Detailed Program"
   - *Using AI to Train Prospective Primary School Teachers to Teach AI* (12 minutes for the talk + 5 minutes Q&A)
 - **12:15 – 12:30** - Closing
 
-*Note: The detailed structure of the doctoral consortium sessions and the EDVANCE's special session will be published soon.*
+*Note: The detailed structure of the EDVANCE's special session will be published soon.*
