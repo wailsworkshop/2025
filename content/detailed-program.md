@@ -7,7 +7,7 @@ description = "Detailed Program"
 
 - **13:30 – 14:15** - Registration  
 - **14:15 – 14:30** - Opening  
-- **14:30 – 15:30** - Keynote Talk by *Beata Klebanov* (Educational Testing Service, US)  
+- **14:30 – 15:30** - Keynote Talk by *Beata Klebanov* (ETS Research Institute, US)  
 - **15:30 – 16:00** - Coffee Break
 - **16:00 – 17:30** - Paper Session 1: *AI for Creative, Personalized & Immersive Learning*  
   - *Experimenting With Generative AI in Screenwriting for Film Schools* (12 minutes for the talk + 5 minutes Q&A)  
@@ -20,7 +20,10 @@ description = "Detailed Program"
 ### Thursday, December 11, 2025
 
 - **09:00 – 10:00** - Keynote Talk by *Giovanni Adorni* (University of Genoa, Italy)  
-- **10:00 – 10:30** - Doctoral Consortium Session 1  
+- **10:00 – 10:30** - Doctoral Consortium Session: Pitch 
+  - *AI Chatbots in Mathematics Classrooms: Understanding Student-AI Interactions and Teacher Integration* (8 minutes for the talk + 2 minutes Q&A)  
+  - *Enhancing Digital Literacy through Retrieval-Augmented Generation* (8 minutes for the talk + 2 minutes Q&A)  
+  - *Teaching AI Literacy: How to Enable Students to Adapt to the Constant Evolution[...]* (8 minutes for the talk + 2 minutes Q&A)  
 - **10:30 – 11:00** - Coffee Break
 - **11:00 – 12:30** - Paper Session 2: *AI for Responsible & Trustworthy Education* (Chair: Daniela Rotelli) 
   - *Confidential Retrieval-Augmented Generation in Educational Contexts* (12 minutes for the talk + 5 minutes Q&A)  
@@ -41,12 +44,12 @@ description = "Detailed Program"
 ### Friday, December 12, 2025
 
 - **09:00 – 10:00** - Keynote Talk by *Maria Ranieri* (University of Florence, Italy)  
-- **10:00 – 10:30** - Doctoral Consortium Session 2  
+- **10:00 – 10:30** - Doctoral Consortium Session: Mentoring 
 - **10:30 – 11:00** - Coffee Break
 - **11:00 – 12:15** - Paper Session 4: *AI for Teaching Innovation & Development* (Chair: Paola Barra)  
   - *Artificial Intelligence and Virtual Labs: A Controlled Study of a Teaching Experience [...]* (8 minutes for the talk + 5 minutes Q&A)  
   - *Exploring the Role of Professional Development in Fostering AI Competence Among Teachers [...]* (12 minutes for the talk + 5 minutes Q&A)  
-  - *Biopedagogy, Artificial Intelligence, and Enactivism: Findings From a Mixed-Methods Study [...]s* (8 minutes for the talk + 5 minutes Q&A)  
+  - *Biopedagogy, Artificial Intelligence, and Enactivism: Findings From a Mixed-Methods Study [...]* (8 minutes for the talk + 5 minutes Q&A)  
   - *From Bias Awareness to Critical Reflection: Expanding Teacher Education Through Predictive AI* (8 minutes for the talk + 5 minutes Q&A)  
   - *Using AI to Train Prospective Primary School Teachers to Teach AI* (12 minutes for the talk + 5 minutes Q&A)
 - **12:15 – 12:30** - Closing
