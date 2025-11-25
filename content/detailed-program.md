@@ -23,7 +23,7 @@ description = "Detailed Program"
 - **10:00 – 10:30** - Doctoral Consortium Session: Pitch 
   - *AI Chatbots in Mathematics Classrooms: Understanding Student-AI Interactions and Teacher Integration* (8 minutes for the talk + 2 minutes Q&A)  
   - *Enhancing Digital Literacy through Retrieval-Augmented Generation* (8 minutes for the talk + 2 minutes Q&A)  
-  - *Teaching AI Literacy: How to Enable Students to Adapt to the Constant Evolution[...]* (8 minutes for the talk + 2 minutes Q&A)  
+  - *Teaching AI Literacy: How to Enable Students to Adapt to the Constant Evolution [...]* (8 minutes for the talk + 2 minutes Q&A)  
 - **10:30 – 11:00** - Coffee Break
 - **11:00 – 12:30** - Paper Session 2: *AI for Responsible & Trustworthy Education* (Chair: Daniela Rotelli) 
   - *Confidential Retrieval-Augmented Generation in Educational Contexts* (12 minutes for the talk + 5 minutes Q&A)  
