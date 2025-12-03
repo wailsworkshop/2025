@@ -7,11 +7,11 @@ description = "venue-information"
 
 ### Scientific sessions
 
-Aula Motzo, Corpo Centrale, Second Floor, Sa Duchessa Campus, [Via Is Mirrionis 1 - 09127 Cagliari CA, Sardinia (Italy)](https://g.co/kgs/knVgquM).
+Aula Motzo, Corpo Centrale, Second Floor, Sa Duchessa Campus, [Via Is Mirrionis 1 - 09127 Cagliari CA, Sardinia (Italy)](https://maps.app.goo.gl/2kayr7SnbYWiQjzt8).
 
 ### Coffee breaks and lunches
 
-Biblioteca di Linguistica, Corpo Centrale, Second Floor, Sa Duchessa Campus, [Via Is Mirrionis 1 - 09127 Cagliari CA, Sardinia (Italy)](https://g.co/kgs/knVgquM).
+Biblioteca di Linguistica, Corpo Centrale, Second Floor, Sa Duchessa Campus, [Via Is Mirrionis 1 - 09127 Cagliari CA, Sardinia (Italy)](https://maps.app.goo.gl/2kayr7SnbYWiQjzt8).
 
 ## Directions
 

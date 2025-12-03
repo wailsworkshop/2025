@@ -7,20 +7,20 @@ description = "Detailed Program"
 
 - **13:30 – 14:15** - Registration  
 - **14:15 – 14:30** - Opening  
-- **14:30 – 15:30** - Keynote Talk by *Beata Klebanov* (ETS Research Institute, US)  
+- **14:30 – 15:30** - Keynote Talk by *Beata Klebanov*, ETS Research Institute, US (Chair: Mirko Marras)  
 - **15:30 – 16:00** - Coffee Break
-- **16:00 – 17:30** - Paper Session 1: *AI for Creative, Personalized & Immersive Learning*  
+- **16:00 – 17:30** - Paper Session 1: *AI for Creative, Personalized & Immersive Learning* (Chair: Ludovico Boratto)
   - *Experimenting With Generative AI in Screenwriting for Film Schools* (12 minutes for the talk + 5 minutes Q&A)  
   - *Better Now: Bridging Theory and Practice in Blockchain-Enabled Educational Metaverse* (8 minutes for the talk + 5 minutes Q&A)  
   - *Adaptive Mental Health Interventions: Integrating VR and Generative AI in Learning Environments* (12 minutes for the talk + 5 minutes Q&A)  
   - *Combining Qualitative and Quantitative Insights Within a Python Programming Blended Course* (12 minutes for the talk + 5 minutes Q&A)  
   - *Facilitating Information Extraction in Education by Translating Questions [...]* (12 minutes for the talk + 5 minutes Q&A)
-- **19:45 – 23:00** - Social Dinner
+- **19:45 – 23:00** - Social Dinner at [Ristorante VitaNova](https://maps.app.goo.gl/S3PnRPuqFv1rhVp78)
 
 ### Thursday, December 11, 2025
 
-- **09:00 – 10:00** - Keynote Talk by *Giovanni Adorni* (University of Genoa, Italy)  
-- **10:00 – 10:30** - Doctoral Consortium Session: Pitch 
+- **09:00 – 10:00** - Keynote Talk by *Giovanni Adorni*, University of Genoa, Italy  (Chair: Carla Limongelli) 
+- **10:00 – 10:30** - Doctoral Consortium Session: Pitch (Chair: Silvio Pagliara) 
   - *AI Chatbots in Mathematics Classrooms: Understanding Student-AI Interactions and Teacher Integration* (8 minutes for the talk + 2 minutes Q&A)  
   - *Enhancing Digital Literacy through Retrieval-Augmented Generation* (8 minutes for the talk + 2 minutes Q&A)  
   - *Teaching AI Literacy: How to Enable Students to Adapt to the Constant Evolution [...]* (8 minutes for the talk + 2 minutes Q&A)  
@@ -39,12 +39,19 @@ description = "Detailed Program"
   - *Orchestrating Artificial Intelligence as Tool, Mediator, and Environment: Towards Inclusive [...]* (12 minutes for the talk + 5 minutes Q&A)  
   - *Virtual Pedagogical Agents in Educational VR for Neurodivergent Learners: A Literature Review* (12 minutes for the talk + 5 minutes Q&A)
 - **15:30 – 16:00** - Coffee Break  
-- **16:00 – 17:30** - Special Session [EDVANCE](https://www.edvance.it/edvance/app/home)
+- **16:00 – 17:30** - Special Session *Innovation Experiences in the [EDVANCE](https://www.edvance.it/edvance/app/home) project* (Chair: Mirko Marras) 
+  - *Project Introduction and Mapping of Initiatives* (5 minutes)
+  - *Representative Experiences*:
+    - *Needs and Expectations of University Staff on the Use of AI in Teaching* (10 minutes for the talk + 5 minutes Q&A)
+    - *Design and Development of Custom GPTs: MoocLab and QuizTool* (10 minutes for the talk + 5 minutes Q&A)
+    - *From Pedagogy to Technology: Designing a Moodle-Centric AI Agent for Meaningful Learning* (10 minutes for the talk + 5 minutes Q&A)
+    - *AIBook and AIMook to Support AI-Mentored Learning Processes* (10 minutes for the talk + 5 minutes Q&A)
+  - *Round Table* (25 minutes)
 
 ### Friday, December 12, 2025
 
-- **09:00 – 10:00** - Keynote Talk by *Maria Ranieri* (University of Florence, Italy)  
-- **10:00 – 10:30** - Doctoral Consortium Session: Mentoring 
+- **09:00 – 10:00** - Keynote Talk by *Maria Ranieri*, University of Florence, Italy (Chair: Silvio Pagliara)  
+- **10:00 – 10:30** - Doctoral Consortium Session: Mentoring (Chair: Silvio Pagliara) 
 - **10:30 – 11:00** - Coffee Break
 - **11:00 – 12:15** - Paper Session 4: *AI for Teaching Innovation & Development* (Chair: Paola Barra)  
   - *Artificial Intelligence and Virtual Labs: A Controlled Study of a Teaching Experience [...]* (8 minutes for the talk + 5 minutes Q&A)  
