@@ -57,7 +57,7 @@ description = "Detailed Program"
   - *Artificial Intelligence and Virtual Labs: A Controlled Study of a Teaching Experience [...]* (8 minutes for the talk + 5 minutes Q&A)  
   - *Exploring the Role of Professional Development in Fostering AI Competence Among Teachers [...]* (12 minutes for the talk + 5 minutes Q&A)  
   - *Biopedagogy, Artificial Intelligence, and Enactivism: Findings From a Mixed-Methods Study [...]* (8 minutes for the talk + 5 minutes Q&A)  
-  - *From Bias Awareness to Critical Reflection: Expanding Teacher Education Through Predictive AI* (8 minutes for the talk + 5 minutes Q&A)  
+  - *Enhancing Teacher Education: AI Potential in Anticipating Teacher Implicit Biases through Realistic Simulations* (8 minutes for the talk + 5 minutes Q&A)  
   - *Using AI to Train Prospective Primary School Teachers to Teach AI* (12 minutes for the talk + 5 minutes Q&A)
 - **12:15 – 12:30** - Closing
 
